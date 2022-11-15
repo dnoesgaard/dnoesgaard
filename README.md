@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Find me on the scicomm.xyz instance of <a rel="me" href="https://scicomm.xyz/@daniel">Mastodon</a>.
+
 <!--
 **dnoesgaard/dnoesgaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
